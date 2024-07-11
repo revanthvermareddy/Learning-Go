@@ -8,6 +8,6 @@ The learnings are structured as shown below:
 
 #### [1.) Main Points](./docs/MainPoints.md)
 
-#### [2.) Installation](./docs/Setup.md)
+#### [2.) Installation](./docs/Installation.md)
 
-#### [3.) Staring a new Project](./docs/Packages_and_Modules.md)
+#### [3.) Staring a new Project](./docs/New_Project.md)
