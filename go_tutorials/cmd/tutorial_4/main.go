@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// functions and control structures
+// arrays
 
 func main() {
 	var printValue = "Hello World!"
